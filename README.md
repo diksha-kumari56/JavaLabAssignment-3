@@ -121,6 +121,3 @@ By completing this assignment, you will understand:
 - How to build a structured class hierarchy
 
 ---
-
-
-Feel free to update the details as needed.
